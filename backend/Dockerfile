@@ -2,7 +2,7 @@ FROM nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04
 
 # expose
 EXPOSE 8080
-
+#test
 # set working directory
 WORKDIR /app
 
